@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Init"
+  short_description: "Gather a brief and compare website styles"
+  default_prompt: "Use $website-init to gather my website brief and build comparable style concepts."
